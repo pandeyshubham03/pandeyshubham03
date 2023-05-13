@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on developing coding skills
-- 🌱 I’m currently learning and focusing of DevOps
+- 🌱 I’m currently learning and focusing on DevOps
 - 👯 I’m looking to collaborate on Github
 - 💬 Ask me about anything
 - 📫 How to reach me: shubham.p20062003@gmail.com
