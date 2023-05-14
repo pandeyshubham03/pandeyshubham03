@@ -10,6 +10,5 @@
 - 😂 Fun fact: I can spin up an AWS instance faster than you can say "cloud computing" 🚀
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pandeyshubham03&theme=radical)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandeyshubham03&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=pandeyshubham03&theme=radical" alt="Shubham Pandey" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=pandeyshubham03&count_private=true&theme=radical"/></p>
 
