@@ -9,6 +9,6 @@
 - ⚡️ Let's have some fun with cloud
 - 😂 Fun fact: I can spin up an AWS instance faster than you can say "cloud computing" 🚀
 
-
+<p align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pandeyshubham03&theme=radical)](https://git.io/streak-stats)
-
+</p>
