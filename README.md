@@ -11,5 +11,5 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pandeyshubham03&theme=radical)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandeyshubham03)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandeyshubham03&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
