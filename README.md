@@ -15,7 +15,7 @@
 <p align="center" >
 	<a href="https://github.com/pandeyshubham03"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/shubham-pandey-69a325233/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://twitter.com/shubham_devops"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
+	<a href="https://twitter.com/shubham_devops"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/?size=512&id=64156&format=png"/></a>
 </p>
 
 
